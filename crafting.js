@@ -88,7 +88,7 @@ let pickaxeRecipes = [
     ],
     [
         //PICKAXE 8
-        ["⚫", 100]
+        ["🟠", 15]
     ]
 
 ]
